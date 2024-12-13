@@ -11,9 +11,13 @@ Author URI: https://wordpress.org/
 Theme URI: https://wordpress.org/themes/twentytwenty/
 */
 
-
-
 /*
 font-family: 'Poppins', sans-serif;
 font-family: 'Work Sans', sans-serif;
 */
+/* Cursors */
+body {
+  cursor: url("data:image/svg+xml,%3Csvg xmlns%3D%22http%3A//www.w3.org/2000/svg%22 width%3D%2260%22 height%3D%2260%22 viewBox%3D%220 0 60 60%22 fill%3D%22none%22%3E%3Ccircle cx%3D%2229.9999%22 cy%3D%2229.9999%22 r%3D%2226.25%22 stroke%3D%22%23F1F4FE%22 stroke-width%3D%221.5%22/%3E%3Cpath d%3D%22M17 30H27.1111M32.8889 30H43M30 43V32.8889M30 27.1111V17%22 stroke%3D%22%23F1F4FE%22/%3E%3Crect width%3D%222%22 height%3D%222%22 transform%3D%22translate(29 29)%22 fill%3D%22%231D58F5%22/%3E%3Ccircle cx%3D%2230%22 cy%3D%2230%22 r%3D%2229.25%22 stroke%3D%22%231D58F5%22 stroke-width%3D%221.5%22/%3E%3C/svg%3E")
+      30 30,
+    auto;
+}
