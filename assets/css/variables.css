@@ -1,0 +1,16 @@
+/* Web vars */
+
+:root {
+  --main-font: "Sora", sans-serif;
+  --header-background: linear-gradient(90.2deg, #010411 0%, #09103a 100%);
+  --header-border-color: linear-gradient(
+    180deg,
+    rgba(40, 52, 78, 0.2) 0%,
+    rgba(70, 87, 124, 0.2) 100%
+  );
+  --body-background: linear-gradient(180deg, #09103a 0%, #010411 100%);
+  /*--container-width: 1296px;
+*/
+  --profile-card-background: linear-gradient(180deg, #5edfff 0%, #1d58f5 100%);
+  --margin-45px: 45px;
+}
